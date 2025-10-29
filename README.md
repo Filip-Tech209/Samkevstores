@@ -36,7 +36,7 @@ Backend Framework: Laravel (PHP)
 
 Database: MySQL
 
-Frontend: Blade Templates, Bootstrap / Tailwind CSS
+Frontend: Blade Templates, Bootstrap 
 
 Server Environment: Apache / Nginx
 
